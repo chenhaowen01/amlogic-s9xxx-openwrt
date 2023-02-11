@@ -14,4 +14,5 @@
 
 CUSTOM_REPO_BRANCH="v22.03.3"
 
+git fetch -t
 git checkout "$CUSTOM_REPO_BRANCH"
