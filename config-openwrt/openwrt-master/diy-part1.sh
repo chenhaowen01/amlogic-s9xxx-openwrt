@@ -12,3 +12,6 @@
 # other
 # rm -rf package/utils/{ucode,fbtest}
 
+CUSTOM_REPO_BRANCH="v22.03.3"
+
+git checkout "$CUSTOM_REPO_BRANCH"
